@@ -1,0 +1,15 @@
+{
+  "name": "notecloud",
+  "version": "1.0.0",
+  "description": "An app on the Cloud where you can login/register yourself and take your notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
