@@ -1,5 +1,6 @@
-// require mongoosw
+// require mongoose
 const mongoose  = require('mongoose')
+
 // initialize mongoURI
 const mongoURI = "mongodb://localhost:27017/?readPreference=primary&directConnection=true&ssl=false"
 
